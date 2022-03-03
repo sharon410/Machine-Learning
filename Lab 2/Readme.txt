@@ -1,1 +1,1 @@
-Logistic Regression
+Lab 2
