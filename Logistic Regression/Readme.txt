@@ -1,1 +1,1 @@
-Logistic Regression with Gradient Descent
+Logistic Regression with Gradient Ascent algorithm
